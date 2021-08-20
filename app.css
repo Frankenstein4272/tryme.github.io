@@ -1,0 +1,42 @@
+body {
+
+background-color:lavenderblush;
+
+}
+.container-fluid
+{
+
+    margin: 35px    ;
+}
+
+#navbarNavAltMarkup .navbar-nav a
+{
+font-size: 20px;
+color:grey;
+}
+
+#navbarNavAltMarkup .navbar-nav .navbar a.nav-link
+{
+color:grey;
+
+}
+
+.ml-auto a.nav-link 
+{
+    color:grey;
+
+
+}
+
+.ml-auto a.nav-link:hover
+{
+    color:red;
+
+
+}
+
+#navbarNavAltMarkup .navbar-nav a:hover
+{
+color:red;
+
+}
